@@ -3,12 +3,12 @@ A basic HTML, CSS challenge from Frontend Mentor. This is the solution to the ch
 
 <h2> Outcome </h2>
 
-<img src="" alt="The image of the solution to the challenge">
+<img src="https://i.imgur.com/mqJrHNF.png" alt="The image of the solution to the challenge">
 
 <h2> Links </h2>
 
-<li> Link to solution:  </li>
-<li> Link to live demo:  </li>
+<li> Link to solution: https://www.frontendmentor.io/solutions/interactive-rating-component-solution-kKnbFkku8r </li>
+<li> Link to live demo: https://blaze4884.github.io/Interactive-Rating-Component/ </li>
 
 <h2> What have I learned </h2>
 
