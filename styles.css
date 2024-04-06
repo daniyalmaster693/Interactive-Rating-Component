@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lexend+Deca:wght@100..900&family=Manrope:wght@200..800&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Young+Serif&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+body {
+  background-color: #121417;
+  color: white;
+  font-family: "Manrope";
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #1d262f;
+  border-radius: 30px;
+  height: 350px;
+  width: 355px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.star {
+  background-color: #232f38;
+  border-radius: 50%;
+  padding: 16px;
+  height: 16px;
+  width: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f9fbfb;
+  font-size: 13px;
+  word-spacing: 2px;
+  margin-top: -16px;
+}
+
+.subtext {
+  color: #969fad;
+  font-weight: 500;
+  line-height: 25px;
+  font-size: 14px;
+  margin-top: -30px;
+}
+
+.ratingbutton {
+  display: flex;
+  justify-content: center;
+  gap: 22px;
+  margin-bottom: 28px;
+}
+
+.ratingbutton button {
+  background-color: #272e38;
+  color: #778089;
+  font-size: 16px;
+  border-radius: 50%;
+  border: none;
+  height: 50px;
+  width: 50px;
+  transition: all 0.2s ease-in-out;
+}
+
+.ratingbutton button:hover {
+  background-color: #7c8898;
+  color: #ebf0f5;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+}
+
+.submit button {
+  background-color: #fb7413;
+  color: white;
+  border-radius: 50px;
+  border: none;
+  width: 100%;
+  height: 40px;
+  letter-spacing: 3px;
+  transition: all 0.2s ease-in-out;
+}
+
+.submit button:hover {
+  background-color: white;
+  color: #fb7413;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 11px;
+  margin-bottom: -20px;
+  color: #a0a0a0;
+  font-family: "Nunito Sans";
+}
+
+a:link {
+  color: #a0a0a0;
+}
+
+a:visited {
+  color: #a0a0a0;
+}
